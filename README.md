@@ -1,4 +1,4 @@
-## Calculadora de IMC criado com HTML, CSS e JS puro.
+## Calculadora de IMC criadada com HTML, CSS e JS puro.
 
 <h3>🌐 Linguagem utilizada:</h3>
 <div style="display: inline_block"><br>
